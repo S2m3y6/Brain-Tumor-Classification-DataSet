@@ -1032,7 +1032,7 @@ meningioma_tumor\m1(102).jpg,Axiaal
 meningioma_tumor\m1(103).jpg,Axiaal
 meningioma_tumor\m1(104).jpg,Axiaal
 meningioma_tumor\m1(105).jpg,Coronaal
-meningioma_tumor\m1(106).jpg,Sagittaal
+meningioma_tumor\m1(106).jpg,Axiaal
 meningioma_tumor\m1(107).jpg,Axiaal
 meningioma_tumor\m1(108).jpg,Axiaal
 meningioma_tumor\m1(109).jpg,Axiaal
@@ -1055,7 +1055,7 @@ meningioma_tumor\m1(124).jpg,Axiaal
 meningioma_tumor\m1(125).jpg,Axiaal
 meningioma_tumor\m1(126).jpg,Axiaal
 meningioma_tumor\m1(127).jpg,Axiaal
-meningioma_tumor\m1(128).jpg,Axiaal
+meningioma_tumor\m1(128).jpg,Coronaal
 meningioma_tumor\m1(129).jpg,Axiaal
 meningioma_tumor\m1(13).jpg,Axiaal
 meningioma_tumor\m1(130).jpg,Axiaal
@@ -1069,7 +1069,7 @@ meningioma_tumor\m1(137).jpg,Axiaal
 meningioma_tumor\m1(138).jpg,Axiaal
 meningioma_tumor\m1(139).jpg,Axiaal
 meningioma_tumor\m1(14).jpg,Axiaal
-meningioma_tumor\m1(140).jpg,Sagittaal
+meningioma_tumor\m1(140).jpg,Axiaal
 meningioma_tumor\m1(141).jpg,Axiaal
 meningioma_tumor\m1(142).jpg,Axiaal
 meningioma_tumor\m1(143).jpg,Axiaal
@@ -1081,9 +1081,9 @@ meningioma_tumor\m1(148).jpg,Axiaal
 meningioma_tumor\m1(149).jpg,Axiaal
 meningioma_tumor\m1(15).jpg,Axiaal
 meningioma_tumor\m1(150).jpg,Axiaal
-meningioma_tumor\m1(151).jpg,Sagittaal
+meningioma_tumor\m1(151).jpg,Axiaal
 meningioma_tumor\m1(152).jpg,Axiaal
-meningioma_tumor\m1(153).jpg,Sagittaal
+meningioma_tumor\m1(153).jpg,Axiaal
 meningioma_tumor\m1(154).jpg,Sagittaal
 meningioma_tumor\m1(155).jpg,Coronaal
 meningioma_tumor\m1(156).jpg,Axiaal
@@ -1219,7 +1219,7 @@ meningioma_tumor\m1(91).jpg,Axiaal
 meningioma_tumor\m1(92).jpg,Axiaal
 meningioma_tumor\m1(93).jpg,Axiaal
 meningioma_tumor\m1(94).jpg,Axiaal
-meningioma_tumor\m1(95).jpg,Sagittaal
+meningioma_tumor\m1(95).jpg,Axiaal
 meningioma_tumor\m1(96).jpg,Axiaal
 meningioma_tumor\m1(97).jpg,Axiaal
 meningioma_tumor\m1(98).jpg,Axiaal
@@ -1436,7 +1436,7 @@ meningioma_tumor\m3 (127).jpg,Sagittaal
 meningioma_tumor\m3 (128).jpg,Axiaal
 meningioma_tumor\m3 (129).jpg,Coronaal
 meningioma_tumor\m3 (13).jpg,Sagittaal
-meningioma_tumor\m3 (130).jpg,Sagittaal
+meningioma_tumor\m3 (130).jpg,Axiaal
 meningioma_tumor\m3 (131).jpg,Axiaal
 meningioma_tumor\m3 (132).jpg,Axiaal
 meningioma_tumor\m3 (133).jpg,Axiaal
@@ -1449,7 +1449,7 @@ meningioma_tumor\m3 (139).jpg,Axiaal
 meningioma_tumor\m3 (14).jpg,Sagittaal
 meningioma_tumor\m3 (140).jpg,Axiaal
 meningioma_tumor\m3 (141).jpg,Axiaal
-meningioma_tumor\m3 (142).jpg,Sagittaal
+meningioma_tumor\m3 (142).jpg,Axiaal
 meningioma_tumor\m3 (143).jpg,Axiaal
 meningioma_tumor\m3 (145).jpg,Axiaal
 meningioma_tumor\m3 (146).jpg,Axiaal
@@ -1647,9 +1647,9 @@ meningioma_tumor\m3 (96).jpg,Sagittaal
 meningioma_tumor\m3 (97).jpg,Sagittaal
 meningioma_tumor\m3 (98).jpg,Sagittaal
 meningioma_tumor\m3 (99).jpg,Sagittaal
-no_tumor\1.jpg,Coronaal
-no_tumor\2.jpg,Coronaal
-no_tumor\3.jpg,Sagittaal
+no_tumor\1.jpg,Axiaal
+no_tumor\2.jpg,Axiaal
+no_tumor\3.jpg,Axiaal
 no_tumor\4.jpg,Axiaal
 no_tumor\5.jpg,Coronaal
 no_tumor\6.jpg,Axiaal
@@ -1666,7 +1666,7 @@ no_tumor\image (17).jpg,Axiaal
 no_tumor\image (18).jpg,Axiaal
 no_tumor\image (19).jpg,Axiaal
 no_tumor\image (20).jpg,Axiaal
-no_tumor\image (21).jpg,Axiaal
+no_tumor\image (21).jpg,Sagittaal
 no_tumor\image (22).jpg,Axiaal
 no_tumor\image (23).jpg,Axiaal
 no_tumor\image (24).jpg,Axiaal
@@ -1683,10 +1683,10 @@ no_tumor\image (34).jpg,Axiaal
 no_tumor\image (35).jpg,Axiaal
 no_tumor\image (36).jpg,Axiaal
 no_tumor\image (37).jpg,Axiaal
-no_tumor\image (38).jpg,Sagittaal
+no_tumor\image (38).jpg,Axiaal
 no_tumor\image (39).jpg,Axiaal
 no_tumor\image (4).jpg,Axiaal
-no_tumor\image (40).jpg,Sagittaal
+no_tumor\image (40).jpg,Axiaal
 no_tumor\image (41).jpg,Axiaal
 no_tumor\image (42).jpg,Axiaal
 no_tumor\image (43).jpg,Axiaal
@@ -1696,7 +1696,7 @@ no_tumor\image (46).jpg,Axiaal
 no_tumor\image (47).jpg,Axiaal
 no_tumor\image (48).jpg,Axiaal
 no_tumor\image (49).jpg,Axiaal
-no_tumor\image (5).jpg,Sagittaal
+no_tumor\image (5).jpg,Axiaal
 no_tumor\image (50).jpg,Axiaal
 no_tumor\image (51).jpg,Axiaal
 no_tumor\image (52).jpg,Axiaal
@@ -1707,7 +1707,7 @@ no_tumor\image (56).jpg,Axiaal
 no_tumor\image (57).jpg,Axiaal
 no_tumor\image (58).jpg,Axiaal
 no_tumor\image (59).jpg,Axiaal
-no_tumor\image (6).jpg,Sagittaal
+no_tumor\image (6).jpg,Axiaal
 no_tumor\image (60).jpg,Axiaal
 no_tumor\image (61).jpg,Coronaal
 no_tumor\image (62).jpg,Axiaal
@@ -1715,8 +1715,8 @@ no_tumor\image (63).jpg,Axiaal
 no_tumor\image (64).jpg,Axiaal
 no_tumor\image (7).jpg,Axiaal
 no_tumor\image (8).jpg,Axiaal
-no_tumor\image (9).jpg,Axiaal
-no_tumor\image(1).jpg,Sagittaal
+no_tumor\image (9).jpg,Coronaal
+no_tumor\image(1).jpg,Axiaal
 no_tumor\image(10).jpg,Axiaal
 no_tumor\image(100).jpg,Axiaal
 no_tumor\image(101).jpg,Axiaal
@@ -1729,11 +1729,11 @@ no_tumor\image(107).jpg,Coronaal
 no_tumor\image(108).jpg,Axiaal
 no_tumor\image(11).jpg,Axiaal
 no_tumor\image(110).jpg,Axiaal
-no_tumor\image(111).jpg,Sagittaal
-no_tumor\image(112).jpg,Axiaal
+no_tumor\image(111).jpg,Axiaal
+no_tumor\image(112).jpg,Sagittaal
 no_tumor\image(113).jpg,Sagittaal
-no_tumor\image(114).jpg,Sagittaal
-no_tumor\image(115).jpg,Axiaal
+no_tumor\image(114).jpg,Axiaal
+no_tumor\image(115).jpg,Sagittaal
 no_tumor\image(116).jpg,Axiaal
 no_tumor\image(117).jpg,Axiaal
 no_tumor\image(118).jpg,Axiaal
@@ -1753,7 +1753,7 @@ no_tumor\image(13).jpg,Axiaal
 no_tumor\image(130).jpg,Axiaal
 no_tumor\image(131).jpg,Axiaal
 no_tumor\image(132).jpg,Axiaal
-no_tumor\image(133).jpg,Coronaal
+no_tumor\image(133).jpg,Axiaal
 no_tumor\image(134).jpg,Coronaal
 no_tumor\image(135).jpg,Axiaal
 no_tumor\image(136).jpg,Axiaal
@@ -1763,7 +1763,7 @@ no_tumor\image(139).jpg,Axiaal
 no_tumor\image(14).jpg,Axiaal
 no_tumor\image(140).jpg,Axiaal
 no_tumor\image(141).jpg,Axiaal
-no_tumor\image(142).jpg,Sagittaal
+no_tumor\image(142).jpg,Axiaal
 no_tumor\image(143).jpg,Axiaal
 no_tumor\image(144).jpg,Axiaal
 no_tumor\image(145).jpg,Axiaal
@@ -1777,9 +1777,9 @@ no_tumor\image(151).jpg,Axiaal
 no_tumor\image(152).jpg,Axiaal
 no_tumor\image(153).jpg,Axiaal
 no_tumor\image(154).jpg,Axiaal
-no_tumor\image(155).jpg,Sagittaal
+no_tumor\image(155).jpg,Axiaal
 no_tumor\image(156).jpg,Axiaal
-no_tumor\image(157).jpg,Sagittaal
+no_tumor\image(157).jpg,Axiaal
 no_tumor\image(158).jpg,Axiaal
 no_tumor\image(159).jpg,Axiaal
 no_tumor\image(16).jpg,Axiaal
@@ -1792,10 +1792,10 @@ no_tumor\image(165).jpg,Axiaal
 no_tumor\image(166).jpg,Axiaal
 no_tumor\image(167).jpg,Axiaal
 no_tumor\image(168).jpg,Axiaal
-no_tumor\image(169).jpg,Sagittaal
+no_tumor\image(169).jpg,Axiaal
 no_tumor\image(17).jpg,Axiaal
 no_tumor\image(170).jpg,Axiaal
-no_tumor\image(171).jpg,Sagittaal
+no_tumor\image(171).jpg,Axiaal
 no_tumor\image(172).jpg,Axiaal
 no_tumor\image(173).jpg,Axiaal
 no_tumor\image(174).jpg,Axiaal
@@ -1829,7 +1829,7 @@ no_tumor\image(199).jpg,Axiaal
 no_tumor\image(2).jpg,Axiaal
 no_tumor\image(20).jpg,Axiaal
 no_tumor\image(200).jpg,Axiaal
-no_tumor\image(201).jpg,Sagittaal
+no_tumor\image(201).jpg,Axiaal
 no_tumor\image(202).jpg,Axiaal
 no_tumor\image(203).jpg,Axiaal
 no_tumor\image(204).jpg,Axiaal
@@ -1865,15 +1865,15 @@ no_tumor\image(230).jpg,Axiaal
 no_tumor\image(231).jpg,Axiaal
 no_tumor\image(232).jpg,Axiaal
 no_tumor\image(233).jpg,Axiaal
-no_tumor\image(234).jpg,Coronaal
+no_tumor\image(234).jpg,Axiaal
 no_tumor\image(235).jpg,Axiaal
 no_tumor\image(236).jpg,Axiaal
 no_tumor\image(237).jpg,Axiaal
-no_tumor\image(238).jpg,Sagittaal
+no_tumor\image(238).jpg,Axiaal
 no_tumor\image(239).jpg,Sagittaal
 no_tumor\image(24).jpg,Axiaal
 no_tumor\image(240).jpg,Axiaal
-no_tumor\image(241).jpg,Sagittaal
+no_tumor\image(241).jpg,Axiaal
 no_tumor\image(242).jpg,Axiaal
 no_tumor\image(243).jpg,Axiaal
 no_tumor\image(244).jpg,Coronaal
@@ -1888,7 +1888,7 @@ no_tumor\image(251).jpg,Axiaal
 no_tumor\image(252).jpg,Axiaal
 no_tumor\image(253).jpg,Axiaal
 no_tumor\image(254).jpg,Coronaal
-no_tumor\image(255).jpg,Sagittaal
+no_tumor\image(255).jpg,Axiaal
 no_tumor\image(256).jpg,Axiaal
 no_tumor\image(257).jpg,Axiaal
 no_tumor\image(258).jpg,Axiaal
@@ -1898,12 +1898,12 @@ no_tumor\image(260).jpg,Axiaal
 no_tumor\image(261).jpg,Sagittaal
 no_tumor\image(262).jpg,Axiaal
 no_tumor\image(263).jpg,Axiaal
-no_tumor\image(264).jpg,Sagittaal
+no_tumor\image(264).jpg,Axiaal
 no_tumor\image(265).jpg,Axiaal
 no_tumor\image(266).jpg,Axiaal
 no_tumor\image(267).jpg,Axiaal
 no_tumor\image(268).jpg,Axiaal
-no_tumor\image(269).jpg,Axiaal
+no_tumor\image(269).jpg,Coronaal
 no_tumor\image(27).jpg,Axiaal
 no_tumor\image(270).jpg,Axiaal
 no_tumor\image(271).jpg,Axiaal
@@ -1912,8 +1912,8 @@ no_tumor\image(273).jpg,Coronaal
 no_tumor\image(274).jpg,Axiaal
 no_tumor\image(275).jpg,Axiaal
 no_tumor\image(276).jpg,Axiaal
-no_tumor\image(277).jpg,Sagittaal
-no_tumor\image(278).jpg,Sagittaal
+no_tumor\image(277).jpg,Axiaal
+no_tumor\image(278).jpg,Axiaal
 no_tumor\image(279).jpg,Axiaal
 no_tumor\image(28).jpg,Axiaal
 no_tumor\image(280).jpg,Axiaal
@@ -1922,14 +1922,14 @@ no_tumor\image(282).jpg,Axiaal
 no_tumor\image(283).jpg,Sagittaal
 no_tumor\image(284).jpg,Axiaal
 no_tumor\image(285).jpg,Axiaal
-no_tumor\image(286).jpg,Coronaal
+no_tumor\image(286).jpg,Axiaal
 no_tumor\image(287).jpg,Axiaal
 no_tumor\image(288).jpg,Axiaal
 no_tumor\image(289).jpg,Axiaal
 no_tumor\image(29).jpg,Axiaal
 no_tumor\image(290).jpg,Axiaal
 no_tumor\image(291).jpg,Axiaal
-no_tumor\image(292).jpg,Sagittaal
+no_tumor\image(292).jpg,Axiaal
 no_tumor\image(293).jpg,Axiaal
 no_tumor\image(294).jpg,Axiaal
 no_tumor\image(295).jpg,Axiaal
@@ -1939,7 +1939,7 @@ no_tumor\image(298).jpg,Axiaal
 no_tumor\image(299).jpg,Axiaal
 no_tumor\image(3).jpg,Coronaal
 no_tumor\image(30).jpg,Axiaal
-no_tumor\image(300).jpg,Coronaal
+no_tumor\image(300).jpg,Axiaal
 no_tumor\image(301).jpg,Axiaal
 no_tumor\image(302).jpg,Axiaal
 no_tumor\image(303).jpg,Axiaal
@@ -1966,7 +1966,7 @@ no_tumor\image(321).jpg,Axiaal
 no_tumor\image(322).jpg,Axiaal
 no_tumor\image(323).jpg,Axiaal
 no_tumor\image(324).jpg,Axiaal
-no_tumor\image(325).jpg,Sagittaal
+no_tumor\image(325).jpg,Axiaal
 no_tumor\image(326).jpg,Axiaal
 no_tumor\image(327).jpg,Axiaal
 no_tumor\image(33).jpg,Axiaal
@@ -1985,13 +1985,13 @@ no_tumor\image(44).jpg,Axiaal
 no_tumor\image(45).jpg,Axiaal
 no_tumor\image(46).jpg,Axiaal
 no_tumor\image(47).jpg,Coronaal
-no_tumor\image(48).jpg,Sagittaal
+no_tumor\image(48).jpg,Axiaal
 no_tumor\image(49).jpg,Axiaal
 no_tumor\image(5).jpg,Axiaal
 no_tumor\image(50).jpg,Axiaal
 no_tumor\image(51).jpg,Axiaal
 no_tumor\image(52).jpg,Coronaal
-no_tumor\image(53).jpg,Sagittaal
+no_tumor\image(53).jpg,Axiaal
 no_tumor\image(54).jpg,Axiaal
 no_tumor\image(55).jpg,Axiaal
 no_tumor\image(56).jpg,Axiaal
@@ -2002,7 +2002,7 @@ no_tumor\image(6).jpg,Axiaal
 no_tumor\image(60).jpg,Axiaal
 no_tumor\image(61).jpg,Axiaal
 no_tumor\image(62).jpg,Axiaal
-no_tumor\image(63).jpg,Sagittaal
+no_tumor\image(63).jpg,Axiaal
 no_tumor\image(64).jpg,Axiaal
 no_tumor\image(65).jpg,Axiaal
 no_tumor\image(66).jpg,Axiaal
@@ -2029,7 +2029,7 @@ no_tumor\image(84).jpg,Axiaal
 no_tumor\image(85).jpg,Axiaal
 no_tumor\image(86).jpg,Axiaal
 no_tumor\image(87).jpg,Axiaal
-no_tumor\image(88).jpg,Coronaal
+no_tumor\image(88).jpg,Axiaal
 no_tumor\image(89).jpg,Axiaal
 no_tumor\image(9).jpg,Axiaal
 no_tumor\image(90).jpg,Axiaal
@@ -2059,7 +2059,7 @@ pituitary_tumor\p (110).jpg,Coronaal
 pituitary_tumor\p (111).jpg,Coronaal
 pituitary_tumor\p (112).jpg,Coronaal
 pituitary_tumor\p (113).jpg,Coronaal
-pituitary_tumor\p (114).jpg,Sagittaal
+pituitary_tumor\p (114).jpg,Coronaal
 pituitary_tumor\p (115).jpg,Sagittaal
 pituitary_tumor\p (116).jpg,Sagittaal
 pituitary_tumor\p (117).jpg,Sagittaal
@@ -2074,7 +2074,7 @@ pituitary_tumor\p (124).jpg,Coronaal
 pituitary_tumor\p (125).jpg,Axiaal
 pituitary_tumor\p (126).jpg,Coronaal
 pituitary_tumor\p (127).jpg,Axiaal
-pituitary_tumor\p (128).jpg,Axiaal
+pituitary_tumor\p (128).jpg,Sagittaal
 pituitary_tumor\p (129).jpg,Axiaal
 pituitary_tumor\p (13).jpg,Sagittaal
 pituitary_tumor\p (130).jpg,Coronaal
@@ -2373,7 +2373,7 @@ pituitary_tumor\p (394).jpg,Sagittaal
 pituitary_tumor\p (395).jpg,Sagittaal
 pituitary_tumor\p (396).jpg,Sagittaal
 pituitary_tumor\p (397).jpg,Sagittaal
-pituitary_tumor\p (398).jpg,Sagittaal
+pituitary_tumor\p (398).jpg,Coronaal
 pituitary_tumor\p (399).jpg,Coronaal
 pituitary_tumor\p (4).jpg,Axiaal
 pituitary_tumor\p (40).jpg,Sagittaal
@@ -2510,8 +2510,8 @@ pituitary_tumor\p (517).jpg,Coronaal
 pituitary_tumor\p (518).jpg,Coronaal
 pituitary_tumor\p (519).jpg,Coronaal
 pituitary_tumor\p (52).jpg,Coronaal
-pituitary_tumor\p (520).jpg,Sagittaal
-pituitary_tumor\p (521).jpg,Sagittaal
+pituitary_tumor\p (520).jpg,Coronaal
+pituitary_tumor\p (521).jpg,Coronaal
 pituitary_tumor\p (522).jpg,Sagittaal
 pituitary_tumor\p (523).jpg,Sagittaal
 pituitary_tumor\p (524).jpg,Sagittaal
